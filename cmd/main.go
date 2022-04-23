@@ -1,7 +1,7 @@
 package main
 
 import (
-	"OrganizerApi"
+	"github.com/Lekhman-vold/OrganizerApi"
 	"log"
 )
 
